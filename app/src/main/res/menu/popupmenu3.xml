@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/s1"
+        android:icon="@drawable/i"
+        android:iconTint="#F44336"
+        android:iconTintMode="src_in"
+        android:title="Изменить на 15" />
+    <item
+        android:id="@+id/s2"
+        android:icon="@drawable/i2"
+        android:iconTint="#FFEB3B"
+        android:iconTintMode="src_in"
+        android:title="Изменить на 30" />
+    <item
+        android:id="@+id/s3"
+        android:icon="@drawable/i3"
+        android:iconTint="#4CAF50"
+        android:iconTintMode="src_in"
+        android:title="Изменить на 60" />
+</menu>

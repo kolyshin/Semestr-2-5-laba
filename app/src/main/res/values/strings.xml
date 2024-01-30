@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">semest2-5</string>
+    <string name="Submenu">Подменю</string>
+    <string name="popup_menu_item_1">Popup menu item 1</string>
+    <string name="popup_menu_item_2">Popup menu item 2</string>
+    <string name="popup_menu_item_3">Popup menu item 3</string>
+    <string name="popup_menu_item_4">Popup menu item 4</string>
+    <string name="popup_menu_item_5">Popup menu item 5</string>
+    <string name="popup_menu_item_6">Popup menu item 6</string>
+    <string name="popupmenu">Работа с PopupMenu</string>
+    <string name="btn">Нажмите на меня</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">green</string>
+    <string name="f">Изменить размер текста</string>
+</resources>
